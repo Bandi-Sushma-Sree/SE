@@ -1,4 +1,0 @@
-Hii welcome! This is the first file in SE Git 
-Use git for saving your project in git
-to add files use git add.
-

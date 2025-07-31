@@ -1,2 +1,3 @@
 This is file 1.
 Used for practicing Git basics.
+and so helpful

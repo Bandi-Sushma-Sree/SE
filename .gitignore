@@ -2,3 +2,4 @@
 *.pdf
 *.log
 node_modules/
+secretKey.txt

@@ -1,0 +1,19 @@
+From 91ace305d7a3a9a0e49472089e55ab528a9d1946 Mon Sep 17 00:00:00 2001
+From: Bandi-Sushma-Sree <sushmasreebandi92@gmail.com>
+Date: Tue, 5 Aug 2025 21:39:11 +0530
+Subject: [PATCH] update
+
+---
+ signup.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/signup.html b/signup.html
+index b41c95f..51c56c1 100644
+--- a/signup.html
++++ b/signup.html
+@@ -1 +1,2 @@
+ <h2>Signup Page</h2>
++<h1> new heading</h1>
+-- 
+2.50.1.windows.1
+
